@@ -1,0 +1,26 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "basic setup",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreejith086/reactstudy.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Sreejith Rajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreejith086/reactstudy/issues"
+  },
+  "homepage": "https://github.com/sreejith086/reactstudy#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
+}
